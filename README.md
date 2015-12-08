@@ -5,6 +5,8 @@ GitHub-Projekt: [faralot-app](https://github.com/bestog/faralot-app)
 
 Weitere Details sind unter [faralot.com / faralot.de](https://faralot.com) zu finden.
 
+*Getestet mit Android Version 4.4.2 (KitKat) / Motorola Razr i - XT890*
+
 ### Aussehen
 <img src="http://faralot.com/assets/faralot/list.png" height="250px" style="padding: 5px;">
 <img src="http://faralot.com/assets/faralot/map.png" height="250px" style="padding: 5px;">
